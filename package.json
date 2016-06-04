@@ -1,0 +1,19 @@
+{
+  "name": "node_practice",
+  "version": "1.0.0",
+  "description": "practicing node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austntatious/node_practice.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/austntatious/node_practice/issues"
+  },
+  "homepage": "https://github.com/austntatious/node_practice#readme"
+}
